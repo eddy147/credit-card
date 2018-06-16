@@ -1,6 +1,7 @@
 # credit-card
 
-FIXME: description
+Trial project credit card fraud - clojure, machine learning.
+This is just for learning -- I use https://github.com/joycex99/fraud-detection.
 
 ## Installation
 
